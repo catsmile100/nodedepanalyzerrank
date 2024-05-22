@@ -20,7 +20,7 @@ echo "Installing dependencies..."
 npm install
 ```
 ### Usage
-### To use this tool, include it in your Node.js application as follows:
+To use this tool, include it in your Node.js application as follows:
 ```
 echo "Running the tool..."
 node -e "
@@ -34,7 +34,7 @@ getImpactScore();
 ```
 
 ### Contributing
-### Contributions are welcome! Please feel free to submit a pull request or open an issue.
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 # License
-# This project is licensed under the ISC License - see the LICENSE.md file for details.
+This project is licensed under the ISC License - see the LICENSE.md file for details.
